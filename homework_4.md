@@ -1,7 +1,8 @@
 # Домашнее задание №4
 
  Этапы выполнения:
-
+- Развёрнута ВМ в WB Cloud.
+- Установлен PostgreSQL 17й версии.
 - Создана таблица accounts(id integer, amount numeric);  
 ```postgresql
 create table if not exists accounts(id integer, amount numeric);
